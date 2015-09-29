@@ -4,6 +4,8 @@ Click [here](http://code.google.com/p/android-query/wiki/AsyncAPI) for wiki at G
 or visit:
 http://code.google.com/p/android-query/wiki/AsyncAPI
 
+Android-Query（AQuery）是一个轻量级的开发包，用于实现Android上的异步任务和操作UI元素，可让Android应用开发更简单、更容易，也更有趣。
+
 <<<<<<< HEAD
 Click here to help out:
 =======
